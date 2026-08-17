@@ -14,7 +14,7 @@ npm install
 npm start
 ```
 
-The app starts locally with the public trial wrapper package `@dhtmlx/trial-vue-scheduler` pinned to `^8.0.0-beta1`.
+The app starts locally with the public trial wrapper package `@dhtmlx/trial-vue-scheduler` pinned to `^8.0.0-beta2`.
 
 ## Build for production
 
